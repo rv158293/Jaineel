@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FEMA & Regulatory Advisory | Rakesh Verma</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f4f6f9; }
+        header { background:#0b3d91; color:white; padding:40px 20px; text-align:center; }
+        section { padding:40px 20px; max-width:900px; margin:auto; }
+        h2 { color:#0b3d91; }
+        .card { background:white; padding:20px; margin:15px 0; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.1); }
+        footer { background:#0b3d91; color:white; text-align:center; padding:20px; }
+        .button { background:#0b3d91; color:white; padding:12px 20px; text-decoration:none; border-radius:5px; display:inline-block; margin-top:10px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>FEMA & Capital Account Regulatory Advisory</h1>
+    <p>Expert Advisory in FEMA, RBI Compliance & Cross-Border Transactions</p>
+</header>
+
+<section>
+    <h2>About</h2>
+    <div class="card">
+        <p>Rakesh Verma – Senior Banking Professional with 25+ years of experience in Treasury, Risk Management, and Regulatory Compliance. Specialized advisory services in FEMA regulations, Capital Account Transactions, ECB, ODI/FDI compliance, and RBI reporting.</p>
+    </div>
+
+    <h2>Services</h2>
+    <div class="card">
+        <ul>
+            <li>FEMA Capital Account Advisory</li>
+            <li>RBI Reporting & Compliance</li>
+            <li>External Commercial Borrowings (ECB)</li>
+            <li>ODI / FDI Structuring</li>
+            <li>Regulatory Risk Management</li>
+        </ul>
+    </div>
+
+    <h2>Contact</h2>
+    <div class="card">
+        <p>Email: rv158293@gmail.com</p>
+        <p>Mobile: +91 9867951392</p>
+        <a href="mailto:rv158293@gmail.com" class="button">Schedule Consultation</a>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Rakesh Verma | FEMA Regulatory Advisory</p>
+</footer>
+
+</body>
+</html>
